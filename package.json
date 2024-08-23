@@ -1,0 +1,8 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@flarenetwork/flare-periphery-contract-artifacts": "file:../flare-periphery2/packages/npm_package",
+    "ethers": "^6.13.2",
+    "web3": "^4.12.1"
+  }
+}
